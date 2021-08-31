@@ -48,7 +48,7 @@ async def on_message(message):
     if message.channel.name == 'your discord channel here':
         # hello responses
         if user_message.lower() == 'hey bud':
-            await message.channel.send(f'Hey Bud {username}!')
+            await message.channel.send(f'Hey {username}!')
             return
         # goodbye responses
         elif user_message.lower() == 'bye':
