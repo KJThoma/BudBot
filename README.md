@@ -12,3 +12,4 @@ BudBot can give advice, do coinflips, roll 1-100, and send chat replies.
 
 # References
 * https://medium.com/simple-guides-to-technology/a-simple-guide-to-making-a-discord-bot-using-python-1e4738f2cdd0
+* https://youtu.be/SPTfmiYiuok
