@@ -1,10 +1,7 @@
 # BudBot
 Fun discord bot to add to a server!
 
-BudBot can give advice, do coinflips, roll 1-100, and send chat replies:
-!advice 
-!flip
-!roll
+BudBot can give advice, do coinflips, roll 1-100, and send chat replies
 
 # Environment
 * Ubuntu 20 VM
